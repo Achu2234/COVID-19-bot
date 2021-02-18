@@ -118,3 +118,4 @@ To set the LINE webhook, edit your webhook setting on LINE Developers Console.
 ## License
 
 MIT
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Yoctol/COVID-19-bot
